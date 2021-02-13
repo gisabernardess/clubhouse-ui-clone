@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="Clubhouse icon" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/icon.svg"></p>
+    <p align="center"><img width="100px" alt="Clubhouse icon" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/icon.svg"></p>
     <p align="center">Clubhouse UI Clone</p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/clubhouse-ui-clone">
@@ -9,7 +9,7 @@
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gisabernardess/clubhouse-ui-clone">
       <img alt="Github license" src="https://img.shields.io/github/license/gisabernardess/clubhouse-ui-clone">
     </p>
-    <p align="center"><img alt="clubhouse-ui-clone" src="https://www.aroged.com/wp-content/uploads/2021/02/Clubhouse-what-is-it-how-does-it-work.png"></p>
+    <p align="center"><img width="500px" alt="clubhouse-ui-clone" src="https://www.aroged.com/wp-content/uploads/2021/02/Clubhouse-what-is-it-how-does-it-work.png"></p>
     <h2>:speech_balloon: Project</h2>
     <p>A UI clone of the Clubhouse app.</p>
     <h2>:rocket: Technologies</h2>
