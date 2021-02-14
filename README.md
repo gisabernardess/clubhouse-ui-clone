@@ -9,9 +9,10 @@
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gisabernardess/clubhouse-ui-clone">
       <img alt="Github license" src="https://img.shields.io/github/license/gisabernardess/clubhouse-ui-clone">
     </p>
-    <p align="center"><img alt="clubhouse-ui-clone" src="https://www.aroged.com/wp-content/uploads/2021/02/Clubhouse-what-is-it-how-does-it-work.png"></p>
     <h2>:speech_balloon: Project</h2>
     <p>A UI clone of the Clubhouse app.</p>
+    <h2>:mobile_phone: Demonstration</h2>
+    <p align="center"><img alt="clubhouse-ui-clone" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/demo.png"></p>
     <h2>:rocket: Technologies</h2>
     <p>This project was developed with the following technologies:</p>
     <ul>
