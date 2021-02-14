@@ -11,7 +11,7 @@
     </p>
     <h2>:speech_balloon: Project</h2>
     <p>A UI clone of the Clubhouse app.</p>
-    <h2>:mobile_phone: Demonstration</h2>
+    <h2>📱 Demonstration</h2>
     <p align="center"><img width="500px" alt="demonstration" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/demo.png"></p>
     <h2>:rocket: Technologies</h2>
     <p>This project was developed with the following technologies:</p>
