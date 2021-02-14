@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="Clubhouse icon" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/icon.svg"></p>
+    <p align="center"><img width="100px" alt="Clubhouse icon" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/icon.svg"></p>
     <p align="center">Clubhouse UI Clone</p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/clubhouse-ui-clone">
@@ -12,7 +12,7 @@
     <h2>:speech_balloon: Project</h2>
     <p>A UI clone of the Clubhouse app.</p>
     <h2>:mobile_phone: Demonstration</h2>
-    <p align="center"><img alt="clubhouse-ui-clone" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/demo.png"></p>
+    <p align="center"><img width="500px" alt="demonstration" src="https://github.com/gisabernardess/clubhouse-ui-clone/blob/main/.github/demo.png"></p>
     <h2>:rocket: Technologies</h2>
     <p>This project was developed with the following technologies:</p>
     <ul>
